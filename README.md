@@ -1,5 +1,5 @@
 ⚡ Diagramas de Técnico Eléctrico Delugoss
-Diagramas, Ubicación y Diagnóstico de Sensores (1990 - 2025)
+Diagramas, Ubicación y Diagnóstico de Sensores (1990 - 2026)
 
 1. Datos del Vehículo y Sensor
 Año (Ej: 2005)
@@ -22,7 +22,7 @@ Envíanos tus Comentarios
 ¿Qué podemos mejorar? ¿Encontraste un error? Escribe aquí.
  Enviar Comentario
 Sugerencias para una Interfaz Intuitiva (UI/UX)
-**Búsqueda Inteligente:** Implementar un autocompletado para Marca, Modelo y Sensor para reducir errores de tipeo.
+**Búsqueda Inteligente:** Implementar un autocompletado, toma una foto del sensor o actuador y la IA realizara la búsqueda cuando termines de seleccionsr  la Marca, Modelo y año y Sensor para reducir errores de tipeo.
 **Iconografía de Sensores:** Usar íconos visuales o miniaturas de los sensores más comunes (e.g., ) para hacer la selección más rápida y visual.
 **Secciones Plegables (Acordeón):** Para el resultado, usar secciones colapsables (Ubicación, Cableado, Diagnóstico) para que el usuario pueda enfocarse solo en la información que necesita.
 **Código de Colores Interactivos:** Si la IA identifica un color de cable ("Rojo/Azul"), mostrar ese color en un pequeño círculo junto al texto.
